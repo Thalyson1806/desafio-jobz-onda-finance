@@ -39,7 +39,7 @@ App bancário simulado com foco em pagamentos internacionais — desenvolvido co
 - [x] README com instruções, decisões técnicas e melhorias futuras
 - [x] Testes (fluxo de login — 5 casos)
 - [x] Segurança documentada (engenharia reversa + vazamento de dados)
-- [ ] Aplicação publicada ← *(em breve)*
+- [x] Aplicação publicada 
 
 ---
 
