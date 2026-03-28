@@ -1,7 +1,7 @@
 # Onda Finance 🌊
 App bancário simulado com foco em pagamentos internacionais — desenvolvido como desafio técnico front-end.
 
-**[Acessar aplicação](https://onda-finance.vercel.app)** ← *(atualizar após deploy)*
+**[Acessar aplicação](https://desafio-jobz-onda-finance-hazel.vercel.app/login)
 
 ---
 
